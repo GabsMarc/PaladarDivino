@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `product` ADD COLUMN `img` BIGINT NOT NULL DEFAULT 0;
